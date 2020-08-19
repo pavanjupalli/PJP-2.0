@@ -1,0 +1,6 @@
+before this stage the work is
+
+created git reposiotry. and created first.txt file and written some content.and then i have created 5 branches dev QA and PROD and Feature and Delivery branches.
+
+now :
+i created first folder and i created second.txt in first folder. and i am going to change first.txt file and add another file called three.txt
